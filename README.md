@@ -1,3 +1,3 @@
 # Time-Series-Analysis-Project
 
-SIT timm series analysis final project
+SIT time series analysis final project at each stage
